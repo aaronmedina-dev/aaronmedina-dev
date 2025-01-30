@@ -46,9 +46,9 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronmedina-dev&show_icons=true&theme=radical" onerror="this.style.display='none'" height="150"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronmedina-dev&theme=radical" onerror="this.style.display='none'" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmedina-dev&layout=compact&theme=radical" onerror="this.style.display='none'" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aaronmedina-dev&show_icons=true&theme=radical" onerror="this.style.visibility='hidden'" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronmedina-dev&theme=radical" onerror="this.style.visibility='hidden'" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmedina-dev&layout=compact&theme=radical" onerror="this.style.visibility='hidden'" height="150"/>
 </div>
 <table>
 
