@@ -42,9 +42,9 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaronmedina-dev&show_icons=true&theme=radical" height="200"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronmedina-dev&theme=radical" height="200" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmedina-dev&layout=compact&theme=radical" height="200"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=aaronmedina-dev&show_icons=true&theme=radical" height="150"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaronmedina-dev&theme=radical" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaronmedina-dev&layout=compact&theme=radical" height="150"/>
 </div>
 <table>
 
