@@ -48,7 +48,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 💼 <b>LinkedIn:</b> <a href="https://linkedin.com/in/aaronmedina">linkedin.com/in/aaronmedina</a>
 
 > "The best way to predict the future is to create it." – Peter Drucker
