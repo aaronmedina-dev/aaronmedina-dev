@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aaron Medina
+# Hi there! 👋 I'm Aaron.
 
 <h2>🚀 About Me</h2>
 <p>I'm a passionate <b>Software Developer</b> with a strong focus on <b>DevOps, Cloud Infrastructure, and Backend Development</b>. I enjoy building applications and automating workflows to improve efficiency.</p>
@@ -16,24 +16,28 @@
 
 <table>
 <tr>
-    <td align="center"><b>Programming Languages</b></td>
-    <td align="center"><b>DevOps & Cloud</b></td>
-    <td align="center"><b>Tools & Frameworks</b></td>
+    <td align="center" width="33%"><b>Programming Languages</b></td>
+    <td align="center" width="33%"><b>DevOps & Cloud</b></td>
+    <td align="center" width="33%"><b>Tools & Frameworks</b></td>
 </tr>
 <tr>
-    <td>
+    <td width="33%">
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
         <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
     </td>
-    <td>
+    <td width="33%">
         <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
     </td>
-    <td>
+    <td width="33%">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+        <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
     </td>
 </tr>
