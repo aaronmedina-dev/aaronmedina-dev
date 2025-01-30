@@ -13,21 +13,21 @@
 <div width="100%" align="center">
     <table>
     <tr>
-        <td align="center" width="33.33%"><b>Programming Languages</b></td>
         <td align="center" width="33.33%"><b>DevOps & Cloud</b></td>
+        <td align="center" width="33.33%"><b>Programming Languages</b></td>
         <td align="center" width="33.33%"><b>Tools & Frameworks</b></td>
     </tr>
     <tr>
+        <td width="33.33%">
+            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+        </td>
         <td width="33.33%">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
             <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
             <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
             <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
             <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-        </td>
-        <td width="33.33%">
-            <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-            <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
         </td>
         <td width="33.33%">
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
